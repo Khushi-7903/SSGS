@@ -1,0 +1,7 @@
+{
+  "name": "Shraddha Surveying & Geomatics Solutions",
+  "description": "Professional land surveying and geomatics solutions website featuring DGPS, Topography, and Alignment survey services with a focus on accuracy and reliability.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
